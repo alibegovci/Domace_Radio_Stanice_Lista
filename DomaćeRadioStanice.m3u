@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,057 radio, Zadar, Croatia
-https://audio.alter-media.hr/9052/stream
-
-#EXTINF:-1,1. Radio Usora
+#EXTINF:-1, Radio Usora
 https://webtvstream.bhtelecom.ba/radio_usora.m3u8
 
 #EXTINF:-1,2. Bravo!
@@ -17,6 +14,9 @@ https://radio.tnt.ba/radio/8020/live?1616060583
 
 #EXTINF:-1,Antena Zagreb - Live
 http://live.antenazagreb.hr:8000/;
+
+#EXTINF:-1,057 radio, Zadar, Croatia
+https://audio.alter-media.hr/9052/stream
 
 #EXTINF:-1,Banjalučki Sevdah Radio Šeherčani
 https://stream-178.zeno.fm/wazhcyi9ak5vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3YXpoY3lpOWFrNXZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMUVTdjNHWTFRWnFyNXRXbGlHNVVsUSIsImlhdCI6MTc0ODYzNjAzNSwiZXhwIjoxNzQ4NjM2MDk1fQ.N1pwMYIyBsa1b50zmsw8dPb6gJixlGZeq2H_iVMUo7k
